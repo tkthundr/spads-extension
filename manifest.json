@@ -1,9 +1,9 @@
 {
     "repos": [
         {
-            "id": "example",
-            "organisation": "lnbits",
-            "repository": "example"
+            "id": "spads-extension",
+            "organisation": "tkthundr",
+            "repository": "spads-extension"
         }
     ]
 }
