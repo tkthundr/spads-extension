@@ -1,9 +1,9 @@
 {
     "repos": [
         {
-            "id": "spads-extension",
+            "id": "spadslnbits",
             "organisation": "tkthundr",
-            "repository": "spads-extension"
+            "repository": "spadslnbits"
         }
     ]
 }
